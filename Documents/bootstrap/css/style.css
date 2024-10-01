@@ -1,0 +1,34 @@
+/* *{
+    box-sizing: border-box;
+    padding: 0px; 
+    margin: 0px; 
+} */
+
+.texto{
+    color: rgb(14, 57, 117);
+}
+
+
+.col{
+    border: solid 1px;
+    padding: 10px;
+    margin: 3px; 
+    color: rgb(21, 123, 255);
+}
+
+.container-pai {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    align-items: center;
+
+}
+.h5{ 
+    
+    border: solid 5px;
+    padding: 5px;
+    margin: 7px; 
+    width: 35rem;
+  color: rgb(255, 0, 0);
+}
+
